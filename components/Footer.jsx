@@ -19,7 +19,7 @@ const Footer = () => {
         >
           <ul className="flex space-x-4">
             <li><Link href="/properties">Properties</Link></li>
-            <li><Link href="/">Terms of Service</Link></li>
+            <li><Link href="/terms&conditions">Terms of Service</Link></li>
           </ul>
         </div>
         <div>
